@@ -168,6 +168,24 @@ An interactive game to educate children about cybersecurity basics.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2,4a00e0&height=200&section=footer&text=Thanks+for+visiting!+💜&fontSize=30&fontColor=ffffff" />
-</p>
+<div align="center" style="
+  background: linear-gradient(135deg, #8e2de2, #4a00e0);
+  padding: 30px 0;
+  color: white;
+  border-radius: 12px;
+  margin-bottom: 30px;
+  transition: all 0.3s ease-in-out;
+">
+
+  <h2 style="
+    font-size: 2em;
+    margin-bottom: 10px;
+    font-weight: bold;
+  ">
+    Welcome to My Profile 👋
+  </h2>
+
+  <p style="max-width: 600px; font-size: 16px;">
+    I'm Shiv Patel, a passionate developer exploring full-stack technologies with a love for React, Vite, Node, and security-driven design.
+  </p>
+</div>
