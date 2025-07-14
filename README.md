@@ -100,12 +100,7 @@ An interactive game to educate children about cybersecurity basics.
 
 ---
 
-## 🎨 Bonus Visual
 
-![3D Code Animation](https://github.com/patelshiv0804/Personal/assets/3d-code-cube.gif)  
-> *"Stay curious. Stay building."*
-
----
-
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=footer&text=Thanks+for+visiting!+💙&fontSize=30&fontColor=ffffff" />
+</p>
