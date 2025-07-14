@@ -20,4 +20,14 @@
 🌐 Let's Connect
 <p align="center"> <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.instagram.com/yourusername"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
 
+## 🕹️ Play My Retro Game – Pong Arcade 🎮
+
+<p align="center">
+  <a href="https://shivpatel21.github.io/pong-game/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Pong%20Game-%F0%9F%8E%AE-yellowgreen?style=for-the-badge&logo=html5&logoColor=white" alt="Pong Game" />
+  </a>
+</p>
+
+> 👾 A nostalgic 80s arcade Pong Game made with HTML, CSS & JavaScript.
+
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDAF39,100:FF5733&height=200&section=footer&text=Thanks+for+visiting!+💛&fontSize=30&fontColor=ffffff" /> </p> 
