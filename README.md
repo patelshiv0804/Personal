@@ -55,19 +55,19 @@ Let's build something incredible together!
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=shivpatel&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Shiv's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=patelshiv0804&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Shiv's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivpatel&theme=radical&hide_border=true" alt="Shiv's GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=patelshiv0804&theme=radical&hide_border=true" alt="Shiv's GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivpatel&theme=radical&hide_border=true&layout=compact&card_width=445" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelshiv0804&theme=radical&hide_border=true&layout=compact&card_width=445" alt="Top Languages" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivpatel&bg_color=0d1117&color=00d8ff&line=00d8ff&point=ff6b6b&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patelshiv0804&bg_color=0d1117&color=00d8ff&line=00d8ff&point=ff6b6b&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 ---
 
