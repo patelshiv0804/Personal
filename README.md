@@ -15,6 +15,14 @@ Recently, I’ve dived deep into full-stack development, participated in hackath
 Let's build something incredible together!
 
 ---
+<h3 align="left">💡 Frontend</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="background-color:#000000; border-radius:50%; padding:8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="background-color:#000000; border-radius:50%; padding:8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="background-color:#000000; border-radius:50%; padding:8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="background-color:#000000; border-radius:50%; padding:8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" style="background-color:#000000; border-radius:50%; padding:8px;"/>
+</p>
 
 ## 🧰 Interactive Skillset
 
