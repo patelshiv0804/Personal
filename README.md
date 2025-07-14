@@ -168,5 +168,6 @@ An interactive game to educate children about cybersecurity basics.
 
 ---
 
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDAF39,100:FF5733&height=200&section=footer&text=Thanks+for+visiting!+💛&fontSize=30&fontColor=ffffff" /> </p> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2,4a00e0&height=200&section=footer&text=Thanks+for+visiting!+💜&fontSize=30&fontColor=ffffff" />
+</p>
