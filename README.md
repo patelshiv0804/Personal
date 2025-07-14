@@ -1,5 +1,4 @@
-<!-- 🧑‍💻 Hero Banner -->
-![Hero Banner](https://lottie.host/ba97ec30-e3a5-4176-8e11-1bc1c83bff57/YK6gJ71krc.json)  
+<!-- 🧑‍💻 Hero Banner -
 <!-- You can replace this with a Spline embed GIF or other Lottie animation turned GIF -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi+there!+I'm+Shiv+Patel+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;Tech+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
@@ -170,6 +169,4 @@ An interactive game to educate children about cybersecurity basics.
 ---
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=footer&text=Thanks+for+visiting!+💙&fontSize=30&fontColor=ffffff" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDAF39,100:FF5733&height=200&section=footer&text=Thanks+for+visiting!+💛&fontSize=30&fontColor=ffffff" /> </p> 
