@@ -145,26 +145,71 @@ Let's build something incredible together!
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🔐 Secure Paper Distribution  
-A blockchain-inspired system for distributing exam papers securely to verified nodes only.  
-[🔗 Live Demo](https://github.com/patelshiv0804/Secure-Paper-Distribution)  
-**Tech Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+<table>
+  <tr>
+    <td valign="top">
+      <h4>🔹 AI-Based Expense Tracker</h4>
+      <p>Built a smart expense tracker using AI-powered logic for transaction insights and dynamic charts.</p>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" title="React.js"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25" title="Node.js"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="25" title="Express.js"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" title="Python"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25" title="SQL"/>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top">
+      <h4>🔹 Food Recipe App</h4>
+      <p>Find and filter delicious recipes with a sleek interface and fast rendering.</p>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" title="HTML"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" title="CSS"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" title="React.js"/>
+      </p>
+    </td>
+  </tr>
 
----
+  <tr>
+    <td valign="top">
+      <h4>🔹 Car Dealership Portal</h4>
+      <p>Developed a system to manage car listings and bookings with a responsive UI.</p>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" title="HTML"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" title="CSS"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" title="JavaScript"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25" title="SQL"/>
+      </p>
+    </td>
+  </tr>
 
-### 🏥 Hospital Data Management System  
-Hackathon project to digitally transform patient tracking & diagnostics.  
-[🔗 GitHub Repo](https://github.com/patelshiv0804/Hospital-Data-Management)  
-**Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white)
+  <tr>
+    <td valign="top">
+      <h4>🔹 Operating System Simulator</h4>
+      <p>A mini OS simulator that helps users understand process scheduling concepts visually.</p>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" title="HTML"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" title="CSS"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" title="JavaScript"/>
+      </p>
+    </td>
+  </tr>
 
----
-
-### 🧠 Cybersecurity Game for Kids  
-An interactive game to educate children about cybersecurity basics.  
-[🔗 GitHub Repo](https://github.com/patelshiv0804/Cybersecurity-Game)  
-**Tech Stack:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  <tr>
+    <td valign="top">
+      <h4>🔹 Bus Tour Website</h4>
+      <p>Created a clean and responsive site for promoting and booking bus tours.</p>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" title="HTML"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" title="CSS"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
