@@ -50,7 +50,7 @@ Let's build something incredible together!
 
 ---
 
-##📊 GitHub Analytics
+## 📊 GitHub Analytics
 <div align="center">
   <table>
     <tr>
