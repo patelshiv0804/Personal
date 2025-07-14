@@ -153,6 +153,10 @@ Let's build something incredible together!
       <h4>🔹 AI-Based Expense Tracker</h4>
       <p>Built a smart expense tracker using AI-powered logic for transaction insights and dynamic charts.</p>
       <p>
+        <a href="https://github.com/patelshiv0804/Xpensa" target="_blank">📂 GitHub</a>
+        <a href="https://xpensa-black.vercel.app/" target="_blank">🔗 Live Demo</a>
+      </p>
+      <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" title="React.js"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25" title="Node.js"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="25" title="Express.js"/>
@@ -167,6 +171,10 @@ Let's build something incredible together!
       <h4>🔹 Food Recipe App</h4>
       <p>Find and filter delicious recipes with a sleek interface and fast rendering.</p>
       <p>
+        <a href="https://github.com/patelshiv0804/ReactJS/tree/main/foodapp" target="_blank">📂 GitHub</a> | 
+        <a href="https://foodrecipe-oxxt.onrender.com/" target="_blank">🔗 Live Demo</a>
+      </p>
+      <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" title="HTML"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" title="CSS"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" title="React.js"/>
@@ -178,6 +186,9 @@ Let's build something incredible together!
     <td valign="top">
       <h4>🔹 Car Dealership Portal</h4>
       <p>Developed a system to manage car listings and bookings with a responsive UI.</p>
+      <p>
+        <a href="https://github.com/patelshiv0804/car_dealership_project" target="_blank">📂 GitHub</a>
+      </p>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" title="HTML"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" title="CSS"/>
@@ -192,6 +203,10 @@ Let's build something incredible together!
       <h4>🔹 Operating System Simulator</h4>
       <p>A mini OS simulator that helps users understand process scheduling concepts visually.</p>
       <p>
+        <a href="https://github.com/patelshiv0804/Os-simulator-" target="_blank">📂 GitHub</a> | 
+        <a href="https://patelshiv0804.github.io/Os-simulator-/index.html" target="_blank">🔗 Live Demo</a>
+      </p>
+      <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" title="HTML"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" title="CSS"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" title="JavaScript"/>
@@ -203,6 +218,10 @@ Let's build something incredible together!
     <td valign="top">
       <h4>🔹 Bus Tour Website</h4>
       <p>Created a clean and responsive site for promoting and booking bus tours.</p>
+      <p>
+        <a href="https://github.com/patelshiv0804/newrepo" target="_blank">📂 GitHub</a> | 
+        <a href="https://patelshiv0804.github.io/newrepo/" target="_blank">🔗 Live Demo</a>
+      </p>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" title="HTML"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" title="CSS"/>
