@@ -27,91 +27,73 @@ Let's build something incredible together!
 ## 🧰 Interactive Skillset
 
 <h2>🧰 Interactive Skillset</h2>
+<h2>🛠️ Tech Stack</h2>
 
-<!-- ✨ Modern Grid Layout -->
-<style>
-  .skill-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 25px;
-    padding: 15px 0;
-  }
+<table>
+  <!-- Languages -->
+  <tr>
+    <th align="left">🎯 Languages</th>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+    </td>
+  </tr>
 
-  .skill-card {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 70px;
-    height: 70px;
-    background: #0d1117;
-    border-radius: 50%;
-    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
+  <!-- Frontend -->
+  <tr>
+    <th align="left">💡 Frontend</th>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/>
+      <img src="https://vitejs.dev/logo.svg" width="40" title="Vite"/>
+    </td>
+  </tr>
 
-  .skill-card:hover {
-    transform: scale(1.1);
-    box-shadow: 0 0 15px rgba(255, 255, 255, 0.4);
-  }
+  <!-- Backend -->
+  <tr>
+    <th align="left">🧠 Backend</th>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" title="Express.js"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="40" title="GraphQL"/>
+    </td>
+  </tr>
 
-  .skill-card img {
-    width: 38px;
-    height: 38px;
-  }
+  <!-- Databases -->
+  <tr>
+    <th align="left">🗃️ Databases</th>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+    </td>
+  </tr>
 
-  @media screen and (max-width: 600px) {
-    .skill-card {
-      width: 60px;
-      height: 60px;
-    }
-    .skill-card img {
-      width: 32px;
-      height: 32px;
-    }
-  }
-</style>
+  <!-- Tools -->
+  <tr>
+    <th align="left">⚒ Tools & Platforms</th>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" title="Figma"/>
+    </td>
+  </tr>
 
-<!-- 💡 Frontend -->
-<h3>💡 Frontend</h3>
-<div class="skill-grid">
-  <div class="skill-card"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" /></div>
-  <div class="skill-card"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" /></div>
-  <div class="skill-card"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" /></div>
-  <div class="skill-card"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" /></div>
-  <div class="skill-card"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" /></div>
-  <div class="skill-card"><img src="https://vitejs.dev/logo.svg" alt="Vite" /></div>
-</div>
-
-<!-- 🧠 Backend -->
-<h3>🧠 Backend</h3>
-<div class="skill-grid">
-  <div class="skill-card"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" /></div>
-  <div class="skill-card"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" /></div>
-  <div class="skill-card"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" /></div>
-  <div class="skill-card"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" /></div>
-  <div class="skill-card"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" /></div>
-  <div class="skill-card"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" /></div>
-  <div class="skill-card"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" /></div>
-</div>
-
-<!-- 🛠 Tools -->
-<h3>🛠 Tools & Platforms</h3>
-<div class="skill-grid">
-  <div class="skill-card"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" /></div>
-  <div class="skill-card"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" /></div>
-  <div class="skill-card"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" /></div>
-  <div class="skill-card"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /></div>
-  <div class="skill-card"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" /></div>
-</div>
-
-<!-- ☁️ Deployment -->
-<h3>☁️ Deployment & Infra</h3>
-<div class="skill-grid">
-  <div class="skill-card"><img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="Render" /></div>
-  <div class="skill-card"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" /></div>
-  <div class="skill-card"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" /></div>
-  <div class="skill-card"><img src="https://aiven.io/images/aiven/aiven-favicon.ico" alt="Aiven" /></div>
-</div>
+  <!-- Deployment -->
+  <tr>
+    <th align="left">🚀 Deployment</th>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="40" title="Render"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" title="Vercel"/>
+      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" title="Netlify"/>
+      <img src="https://aiven.io/images/aiven/aiven-favicon.ico" width="40" title="Aiven"/>
+    </td>
+  </tr>
+</table>
 
 
 ---
