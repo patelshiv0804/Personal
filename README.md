@@ -1,7 +1,7 @@
 <!-- 🧑‍💻 Hero Banner -
 <!-- You can replace this with a Spline embed GIF or other Lottie animation turned GIF -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi+there!+I'm+Shiv+Patel+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;Tech+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=500&color=00D8FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi+there!+I'm+Shiv+Patel+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;Tech+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,19 +22,7 @@ Recently, I’ve dived deep into full-stack development, participated in hackath
 Let's build something incredible together!
 
 ---
-<h3 align="left">💡 Frontend</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="background-color:#000000; border-radius:50%; padding:8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="background-color:#000000; border-radius:50%; padding:8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="background-color:#000000; border-radius:50%; padding:8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="background-color:#000000; border-radius:50%; padding:8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" style="background-color:#000000; border-radius:50%; padding:8px;"/>
-</p>
-
-## 🧰 Interactive Skillset
-
 <h2>🧰 Interactive Skillset</h2>
-<h2>🛠️ Tech Stack</h2>
 
 <table>
   <!-- Languages -->
@@ -138,9 +126,8 @@ Let's build something incredible together!
 
 ## 🌐 Let’s Connect! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patelshiv0804)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/patelshiv0804)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://patelshiv0804.github.io)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivpatel-webdev/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://patelshiv0804.github.io/portfolio/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patelshiv0804)
 
 ---
